@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eezojeija.tou-kt.com/sitemap.xml
